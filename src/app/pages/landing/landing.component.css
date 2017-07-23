@@ -1,0 +1,28 @@
+#landing-parent {
+  position: fixed;
+  background-color: #1e4a85;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 10;
+}
+
+#landing-text {
+  width: 60%;
+  margin-left: 25%;
+  color: #ebece5;
+  font-size: 50px;
+  font-family: Sans-Serif;
+}
+
+#hello {
+  font-size: 50px;
+  animation-duration: 3s;
+}
+
+#welcome {
+  font-size: 50px;
+  animation-duration: 3s;
+  animation-delay: 4s;
+}
